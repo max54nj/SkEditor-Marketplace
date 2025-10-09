@@ -4,8 +4,14 @@
   "author": "Max54nj",
   "icon": "Terminal.png",
   "file": "de.max54nj.terminal.dll",
+  "links": {
+    "issuesUrl": "https://github.com/max54nj/SkEditor-Terminal/issues",
+    "repositoryUrl": "https://github.com/max54nj/SkEditor-Terminal",
+    "changelogUrl": "https://github.com/max54nj/SkEditor-Terminal/releases/latest",
+    "documentationUrl": "https://github.com/max54nj/SkEditor-Terminal/wiki"
+  },
   "shortDescription": "Adds a simple terminal to SkEditor",
-  "longDescription": "Adds a very simple terminal to SkEditor. \n\nThe terminal currently does not support colors.\n\nWorks best with Powershell and CMD on Windows.\nBash and sh are only partially supported.\n\nFeatures:\n- Terminal Session Restoring\n- Custom Terminals\n\nTranslations:\n- English\n- German",
+  "longDescription": "Adds a very simple terminal to SkEditor. \n\nThe terminal currently does not support colors.\n\nWorks best with Powershell and CMD on Windows.\nBash and sh are only partially supported.\n\nFeatures:\n- Terminal Session Restoring\n- Custom Terminals\n- Open terminal with hotkey (not configurable yet)\n\nTranslations:\n- English\n- German",
   "version": "1.0.0-beta.1",
   "requiresRestart": false
 }
